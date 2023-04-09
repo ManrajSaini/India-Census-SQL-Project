@@ -3,6 +3,7 @@
 Dataset's are taken from the following websites,
 
 Dataset1 : https://www.census2011.co.in/district.php
+
 Dataset2 : https://www.census2011.co.in/literacy.php
 
 The Indian census is one of the largest and most extensive surveys conducted in the world. The data collected from this survey is used for a wide range of purposes, from public policy making to academic research. In this project, we will explore the data collected in the Indian census, focusing on population, growth, sex ratio, and literacy rates.
